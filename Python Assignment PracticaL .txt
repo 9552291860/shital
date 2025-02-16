@@ -1,0 +1,42 @@
+1.problem -  1,100
+prime,even,odd
+2.duplicates element from list
+3.duplicates element count from the list
+4.duplciate element count from list display like
+e.g. {1:count,2:count}
+5.can we difine list inside tuple or vice versa
+6.can we perform u/d/i on list which is inside tuple vice versa
+7.count char from string 
+{a:count,b:count}
+8.reverse the list without using inbuilt method/function
+9.user sal
+grade
+a sal >90 ---15%
+b sal>70<90 --12%
+c sal >50 <70 --10%
+
+	BASIC PYTHON	
+1	Python program to calculate the avg of numbers in lists	
+2	Python program to exchange the values of two numbers without using third variable	*******
+3	python program to a read number n and compute n+nn+nnn+nnnn	
+4	Python progam to reverse the given number	
+5	python program to take a five subject marks and display the grade	
+6	python program to prirnt all numbers in range divisible by given number	
+7	PP to read two numbers and print there quotrient and reminder	
+8	PP to accept three digits and print all possible combinations from digits	
+9	PP to print odd numbers within a given range	
+10	pp to find the sum of digits in number	
+11	PP to find smallest divisor of integer	
+12	PP to count the number of digits in num	
+13	PP to check if the number is palindrome	
+14	PP to print all integers that aren't divisible by two or threee and lies between 1 to 5	
+15	PP to read N numbers and print the series 1+2+.....+N	
+16	PP to print identity matrix	
+17	PP to print inverted star Pattern	
+18	PP to find the largest number in the list	
+19	PP to take the list and print the second largest number in he list	
+20	PP to merge two lists and to sort it	
+21	PP to find the union of two lists	
+22	PP to find the count of numbers and display in dictionary	******
+23	PP to swap the first and last value of the list	
+24	PP to remove the duplicate items from the list	******
